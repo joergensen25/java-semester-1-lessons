@@ -1,3 +1,4 @@
+package opgave04;
 
 import opgave04.TaxCalculator;
 import org.junit.jupiter.api.Test;

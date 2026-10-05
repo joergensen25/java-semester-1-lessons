@@ -17,10 +17,10 @@ Prøv først uden at kigge i bogen kap. 2.16.
 
 ### Opgave 2 - Mil til kilometer konverter
 
-Lav et program der indlæser en double fra konsollen, konverter denne til kilometer og 
-udskriver resultatet til konsollen. 
+Lav et program der indlæser en double fra konsollen, konverter denne til kilometer og
+udskriver resultatet til konsollen.
 
-En mil svarer til 1,6 kilometer 
+En mil svarer til 1,6 kilometer
 
 Eksempel output.
 
@@ -35,8 +35,8 @@ Hvis du gerne vil udskrive en double med 1 decimal skal du bruge printf metoden.
 
 ### Opgave 3 - BMI beregner
 
-Lav et program der kan beregne BMI (Body Mass Index). Programmet skal promte brugeren for vægt og højde og derefter 
-udskrive BMI. BMI beregnes med formlen 
+Lav et program der kan beregne BMI (Body Mass Index). Programmet skal promte brugeren for vægt og højde og derefter
+udskrive BMI. BMI beregnes med formlen
 
 $BMI = \frac{vægt}{højde*højde}$
 
@@ -46,7 +46,7 @@ Dette projekt indeholder en klasse TaxCalculator med en metode CalculateTax, til
 kode til denne metode.
 
 Ud over lidt start kode har jeg også lavet nogle tests, du kører disse tests ved at bruge short
-cut, Ctrl-Shift-F10. 
+cut, Ctrl-Shift-F10.
 
 Disse tests fejler lige nu, men skulle gerne blive ”grønne” når du har løst
 opgave.
@@ -61,7 +61,7 @@ Lav en simpel skatteberegner hvor man kan indtaste ens månedsløn hvorefter pro
 udskriver hvor meget man skal betale i skat om måneden.
 
 Din skatteberegner skal tage høje for personfradraget som er 48.000,- om året, som er det
-beløb hvoraf der ikke skal betales skat. 
+beløb hvoraf der ikke skal betales skat.
 
 Af det resterende beløb skal der betales 37% skat.
 
@@ -77,7 +77,7 @@ Og den månedlige skat er *115.440 / 12 = 9.620 kr.*
 
 **Delopgave b)**
 
-Udvid nu din skatteberegner, så den også beregner topskat. 
+Udvid nu din skatteberegner, så den også beregner topskat.
 
 Topskattegrænsen er 568.900, alt hvad du tjener over denne grænse, skal du betale topskat af. Topskatteprocenten er 15%.
 
